@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AV Stem</title>
+
+    <!-- Bootstrap -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+<style>
+@media (min-width: 1000px) {
+  .container {
+    width: 960px;
+  }
+}
+</style>
+  <body>
+
+      <div class="row" id="contact">
+	<div class="col-sm-12  col-sm-offset-0">
+          <img src="avstem2.png" width="100%"/>
+	</div>
+      </div>
+
+      <br/>      <br/>
+      <div class='row'>
+	<div class="col-sm-1"></div>
+	<div class="col-sm-5">
+	  <h2>Thirty Meter Telescope</h2> <br/>
+	  <h2>Carnegie Observatories</h2> <br/>
+	</div>
+	<div class="col-sm-1"></div>
+	<div class="col-sm-5">
+	  <h2>ISS Above</h2> <br/>
+	  <h2>Caltech</h2> 
+	</div>
+      </div>
+
+      <br/><br/>
+      <div class='row'>
+	<div class="col-sm-1"></div>
+	<div class="col-sm-10">
+	  <h1>To connect ... </h1>
+	  <hr/>
+	  More information will be posted soon
+	  <br/><br/><br/><br/><br/><br/>
+	  <span style='font-family: "Times New Roman", Times, serif;'>
+		Presented by Arroyo Vista PTA. 
+		Photo by Greg Rakozy on Unsplash.
+		</span>
+	  <br/><br/>
+	  </div></div>
+	  
+  </body>
+</html>
+    
